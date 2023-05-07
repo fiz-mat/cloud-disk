@@ -4,7 +4,7 @@
 .disk__btns {
   display: flex;
 }
-.disk__create {
+.disk__back {
   margin-left: 10px;
 }
 .popup {
@@ -36,6 +36,6 @@
   justify-content: space-between;
 }
 .popup input {
-  margin: 20px 0px;
+  margin: 20px 0;
 }
 /*# sourceMappingURL=disk.css.map */
